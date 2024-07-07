@@ -1,10 +1,10 @@
 # AxisBot Solana Sniper v2.0 
 
-![](banner.png)
+![](https://github.com/AxisBotV2/solana-sniper-bot/blob/1be5d62ff1e656e750e5c089400987edbd6b379f/Files/banner.png)
 
 ## ABOUT
 
-![](line.gif)
+![](https://github.com/AxisBotV2/solana-sniper-bot/blob/1be5d62ff1e656e750e5c089400987edbd6b379f/Files/line.gif)
 
 **AxisBot** - snipe and sell SPL tokens at lightning speed. Our sniping bot helps you maintain a higher level of security while also giving you the fastest sniping speed possible. Built by Traders for Traders.
 
@@ -17,7 +17,7 @@ Observing market trends, we noticed a rising interest in token sniping, initiall
 
 ## V1.0 Features
 
-![](line.gif)
+![](https://github.com/AxisBotV2/solana-sniper-bot/blob/1be5d62ff1e656e750e5c089400987edbd6b379f/Files/line.gif)
 
 Below are the main features of our bot and recommendations on how to use them. 
 More incredible features are currently in the works to take your experience to the next level.
@@ -54,7 +54,7 @@ More incredible features are currently in the works to take your experience to t
 
 ## Preview
 
-![](line.gif)
+![](https://github.com/AxisBotV2/solana-sniper-bot/blob/1be5d62ff1e656e750e5c089400987edbd6b379f/Files/line.gif)
 
 Here you can see the main functionality of our bot.
 
@@ -79,7 +79,7 @@ These are recommended settings, you can experiment with them to find the best co
 
 ## Tests
 
-![](line.gif)
+![](https://github.com/AxisBotV2/solana-sniper-bot/blob/1be5d62ff1e656e750e5c089400987edbd6b379f/Files/line.gif)
 
 Below you can see test snipes, we tried to fully display the speed of the bot.
 In these tests Slippage - 1000, Tip 0.01 SOL & TP 200%.
@@ -94,7 +94,7 @@ These are recommended settings, you can experiment with them to find the best co
 
 ## Plans
 
-![](line.gif)
+![](https://github.com/AxisBotV2/solana-sniper-bot/blob/1be5d62ff1e656e750e5c089400987edbd6b379f/Files/line.gif)
 
 Below are our two main plans:
 
@@ -131,7 +131,7 @@ If you can't follow the link, please contact us and visit our website.
 
 ## Token
 
-![](line.gif)
+![](https://github.com/AxisBotV2/solana-sniper-bot/blob/1be5d62ff1e656e750e5c089400987edbd6b379f/Files/line.gif)
 
 All AxisBot Ultimate users will receive an Airdrop of our future token on the Solana Blockchain.
 
@@ -145,7 +145,7 @@ Ticker: **$AXIS**
 
 ## Contact
 
-![](line.gif)
+![](https://github.com/AxisBotV2/solana-sniper-bot/blob/1be5d62ff1e656e750e5c089400987edbd6b379f/Files/line.gif)
 
 > [!NOTE]
 > **Official Website** : https://axisbot.xyz
