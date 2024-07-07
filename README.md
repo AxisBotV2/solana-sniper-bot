@@ -163,4 +163,4 @@ Ticker: **$AXIS**
 >
 > **Discord** : @axisniper
 > 
-> **Telegram** : @axisniper
+> **Telegram** : https://t.me/axisniper
