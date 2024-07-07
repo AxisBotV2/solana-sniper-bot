@@ -13,7 +13,7 @@ Observing market trends, we noticed a rising interest in token sniping, initiall
 **Our Official Website** : https://axisbot.xyz
 
 
-![](macsite.png)
+![](https://github.com/AxisBotV2/solana-sniper-bot/blob/1be5d62ff1e656e750e5c089400987edbd6b379f/Files/macsite.png)
 
 ## V1.0 Features
 
@@ -60,7 +60,7 @@ Here you can see the main functionality of our bot.
 
 ----------------------------------
 
-![](menuportfolio.png)
+![](https://github.com/AxisBotV2/solana-sniper-bot/blob/1be5d62ff1e656e750e5c089400987edbd6b379f/Files/menuportfolio.png)
 
 **Main Menu** : Each function has several sub-functions. For example, in the "RPC Node" category, you can choose the desired RPC, and in "Global Settings" specify general settings for all bot categories, such as Tip, Slippage, Anti-Mev, etc.
 
@@ -68,7 +68,7 @@ Here you can see the main functionality of our bot.
 
 ----------------------------------
 
-![](snipespamsnipe.png)
+![](https://github.com/AxisBotV2/solana-sniper-bot/blob/1be5d62ff1e656e750e5c089400987edbd6b379f/Files/snipespamsnipe.png)
 
 **Snipe** : Here you can see the test Snipe, the speed at which the bot operates, and even more functionality.
 These are recommended settings, you can experiment with them to find the best combination.
@@ -86,7 +86,7 @@ In these tests Slippage - 1000, Tip 0.01 SOL & TP 200%.
 
 ----------------------------------
 
-![](tests.png)
+![](https://github.com/AxisBotV2/solana-sniper-bot/blob/1be5d62ff1e656e750e5c089400987edbd6b379f/Files/tests.png)
 
 These are recommended settings, you can experiment with them to find the best combination.
 
@@ -127,7 +127,7 @@ If you can't follow the link, please contact us and visit our website.
 
 ----------------------------------
 
-![](plans.png)
+![](https://github.com/AxisBotV2/solana-sniper-bot/blob/1be5d62ff1e656e750e5c089400987edbd6b379f/Files/plans.png)
 
 ## Token
 
@@ -139,7 +139,7 @@ Ticker: **$AXIS**
 
 ----------------------------------
 
-![](mactoken.png)
+![](https://github.com/AxisBotV2/solana-sniper-bot/blob/1be5d62ff1e656e750e5c089400987edbd6b379f/Files/mactoken.png)
 
 ----------------------------------
 
